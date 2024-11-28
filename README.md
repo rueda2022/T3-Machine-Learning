@@ -9,3 +9,6 @@ We present the following folders into de repository:
 
 ## Summary
 
+Based in price and atributes information from 39,644 houses in Bogota, Colombia, we train (5) different trying to predict prices for 10,286 places in the locality of Chapinero. For this task, different atributes were extracted from the datasets and some features were constructed by taking into account the location of the properties. 
+
+![image](https://github.com/user-attachments/assets/5feeeadf-179e-44b2-a844-e24c4e86a027)
