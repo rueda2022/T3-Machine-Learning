@@ -19,10 +19,12 @@ This project uses price and attribute information from **39,644 properties** in 
 - **Models**: Five different machine learning models were trained and compared for their predictive performance.
 
 ### Visualization
-Below is an example of one of the visualizations generated during the analysis:
+Below is an example of one of the visualizations generated during the analysis. In this case, a map is shown with the homes and areas designated for training and validation in the city.:
 
 ![image](https://github.com/user-attachments/assets/5feeeadf-179e-44b2-a844-e24c4e86a027)
 
----
+## Results
+The models were trained to minimize the *Mean Absolute Error (MAE)*. In this case, the model based on *XGBoost* presents the best performance by a hyperparameter random search and Cross-Validation process (using 20% of the training data). 
 
-Feel free to explore the repository and reach out if you have any questions or suggestions!
+![image](https://github.com/user-attachments/assets/2e390e21-28fc-47c8-a47a-17ae03eabaa1)
+
