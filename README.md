@@ -3,7 +3,7 @@ This repository contains all the code, description and solution to the problem s
 
 We present the following folders into de repository:
 - **document:** Contains the PDF document with the final article. In addition an overleaf link (just for view) is attached.
-- **scripts:** Contains the Jupyter Notebook called "Implementation" where all the code was implemented. For running the script it is necessary to have into the same folder all the documents that are in the folder \textt{stores}.
+- **scripts:** Contains the Jupyter Notebook called "Implementation" where all the code was implemented. For running the script it is necessary to have into the same folder all the documents that are in the folder *stores*.
 - **stores:** Contains all the needed data for running the scripts or available data needed for the article. 
 - **views:** Contains all the Figures and Tables that are in the PDF document.
 
